@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://carlossilva10.github.io/csb-gzrh8p/static/css/main.6c3ff7e7.chunk.css",
+    "main.js": "https://carlossilva10.github.io/csb-gzrh8p/static/js/main.a6d311f4.chunk.js",
+    "main.js.map": "https://carlossilva10.github.io/csb-gzrh8p/static/js/main.a6d311f4.chunk.js.map",
+    "runtime-main.js": "https://carlossilva10.github.io/csb-gzrh8p/static/js/runtime-main.d0472066.js",
+    "runtime-main.js.map": "https://carlossilva10.github.io/csb-gzrh8p/static/js/runtime-main.d0472066.js.map",
+    "static/js/2.a20bdc49.chunk.js": "https://carlossilva10.github.io/csb-gzrh8p/static/js/2.a20bdc49.chunk.js",
+    "static/js/2.a20bdc49.chunk.js.map": "https://carlossilva10.github.io/csb-gzrh8p/static/js/2.a20bdc49.chunk.js.map",
+    "index.html": "https://carlossilva10.github.io/csb-gzrh8p/index.html",
+    "static/css/main.6c3ff7e7.chunk.css.map": "https://carlossilva10.github.io/csb-gzrh8p/static/css/main.6c3ff7e7.chunk.css.map",
+    "static/js/2.a20bdc49.chunk.js.LICENSE.txt": "https://carlossilva10.github.io/csb-gzrh8p/static/js/2.a20bdc49.chunk.js.LICENSE.txt",
+    "static/media/plus-icon.b030f6ae.svg": "https://carlossilva10.github.io/csb-gzrh8p/static/media/plus-icon.b030f6ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0472066.js",
+    "static/js/2.a20bdc49.chunk.js",
+    "static/css/main.6c3ff7e7.chunk.css",
+    "static/js/main.a6d311f4.chunk.js"
+  ]
+}
